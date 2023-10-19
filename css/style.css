@@ -1,0 +1,17 @@
+body {
+    color:limegreen;
+}
+
+h1 {
+    color: blue;
+}
+.special-title{
+    color: black;
+
+}
+#very-special-title {
+   color: green;
+}
+li{
+    float: left;
+}
